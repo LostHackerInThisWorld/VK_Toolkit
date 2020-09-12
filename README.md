@@ -8,7 +8,7 @@
    - Вводим команду pip install vk_api
    - python3 vklsspam
    - Вводим сообщение
-Установка на Windows:
+\nУстановка на Windows:
    - Скачиваем файл
    - Открываем файл
    - Настроиваем токен KateMobile и вечный User Id в файле
