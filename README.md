@@ -7,7 +7,7 @@
    - Настроиваем токен KateMobile и вечный User Id в файле
    - Вводим команду в Termux -> pip install vk_api
    - Открываем файл через Termux
-   - python3 vklsspam
+   - Вводим команду в Termux -> python3 vklsspam
    - Вводим сообщение спама
    
    Установка на Windows:
