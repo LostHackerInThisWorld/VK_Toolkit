@@ -14,18 +14,19 @@
 Модуль: vk_api, random, time, os(установка: pip install МОДУЛЬ, если выдаст ошибку при установке, то скорее всего модуль уже установлен)
 
 Установка в Termux:
-   - Скачиваем файл
-   - Открываем файл
-   - Настроиваем токен VK Admin и вечный User Id в файле
+   - Прописываем git clone https://github.com/Lonely0Programmer/VkSpamPrivateMessage/edit/master/README.md
+   - Прописываем cd VkSpamPrivateMessage
+   - Прописываем python3 vkUtils.py
    - Вводим команду в Termux -> pip install vk_api
-   - Открываем файл через Termux
-   - Вводим команду в Termux -> python3 vklsspam
-   - Вводим сообщение спама
+   - Выбираем вид спама
+   - Вводим запрашиваемые данные
+   - Спамим
    
    Установка на Windows:
    - Скачиваем файл
    - Открываем файл
-   - Настроиваем токен VK Admin и вечный User Id в файле
    - Вводим команду в cmd -> pip install vk_api
    - Открываем файл через Python
-   - Вводим сообщение спама
+   - Выбираем вид спама
+   - Вводим запрашиваемые данные
+   - Спамим
