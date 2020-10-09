@@ -1,4 +1,4 @@
-# VkSpamPrivateMessage
+# VkSpamerx
 
 Актуален 2020
 Профессиональный, простой спаммер для ВКонтакте/VK/VKontakte
